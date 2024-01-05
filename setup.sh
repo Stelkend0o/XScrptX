@@ -25,10 +25,10 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To Wings VPN Script Installer ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To Indonesian Tech VPN Script Installer ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "     This Will Quick Setup VPN Server On Your Server"
-echo -e "         Auther : ${green}WINGSVPN ${NC}${YELLOW}(${NC} ${green}Wings VPN ${NC}${YELLOW})${NC}"
-echo -e "       © Recode By Wing VPN ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
+echo -e "         Auther : ${green}Indonesian Tech ${NC}${YELLOW}(${NC} ${green}Indonesian Tech ${NC}${YELLOW})${NC}"
+echo -e "       © Recode By Indonesiantech.net ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 5
@@ -50,8 +50,8 @@ data_server=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date |
     echo -e "   \033[0;33mYour VPS${NC} $ipsaya \033[0;33mHas been Banned${NC}"
     echo -e "     \033[0;33mBuy access permissions for scripts${NC}"
     echo -e "             \033[0;33mContact Admin :${NC}"
-    echo -e "      \033[0;36mTelegram${NC} t.me/wingsofhope"
-    echo -e "      ${GREEN}WhatsApp${NC} wa.me/6282261333421"
+    echo -e "      \033[0;36mTelegram${NC} https://indonesiantech.net"
+    echo -e "      ${GREEN}Telegram Group${NC} https://t.me/openwrt_hg680p_hg680fj_bh860h"
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
     exit
   fi
@@ -362,7 +362,7 @@ clear
     <code>User Script:</code> <code>$username</code>
     <code>Exp Script :</code> <code>$exp</code>
     ============================
-    (C) Copyright 2023 By Wings
+    (C) Copyright 2024 Indonesiantech.net
     ============================
 "
 
